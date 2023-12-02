@@ -1,0 +1,13 @@
+/cheese
+-- index.html 
+-- main.html
+-- /bread
+---- index.html
+---- main.html
+
+xyz.com -> /index.html
+xyz.com/main.html
+
+xyz.com/bread -> bread/index.html
+xyz.com/bread/main.html
+
